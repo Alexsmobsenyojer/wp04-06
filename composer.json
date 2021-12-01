@@ -1,0 +1,15 @@
+{
+    "name": "trejb/wp4-07",
+    "autoload": {
+        "classmap": [
+            "classes/"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Alexsmobsenyojer",
+            "email": "trejbal.jakub@email.cz"
+        }
+    ],
+    "require": {}
+}
